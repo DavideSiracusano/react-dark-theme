@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DavideSiracusano/react-dark-theme.git/static/css/main.bb198853.css",
+    "main.js": "/DavideSiracusano/react-dark-theme.git/static/js/main.082ed312.js",
+    "static/js/453.7780609f.chunk.js": "/DavideSiracusano/react-dark-theme.git/static/js/453.7780609f.chunk.js",
+    "index.html": "/DavideSiracusano/react-dark-theme.git/index.html",
+    "main.bb198853.css.map": "/DavideSiracusano/react-dark-theme.git/static/css/main.bb198853.css.map",
+    "main.082ed312.js.map": "/DavideSiracusano/react-dark-theme.git/static/js/main.082ed312.js.map",
+    "453.7780609f.chunk.js.map": "/DavideSiracusano/react-dark-theme.git/static/js/453.7780609f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb198853.css",
+    "static/js/main.082ed312.js"
+  ]
+}
