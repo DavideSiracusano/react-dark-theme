@@ -1,5 +1,6 @@
 <img width="1920" height="886" alt="image" src="https://github.com/user-attachments/assets/04fa5b26-e684-45d2-94c0-a9f03e9d1100" />
-# REACT APP DARK MODE
+
+## REACT APP DARK MODE
 
 Questo progetto usa useState e useEffect per creare una dark mode dinamica
 
